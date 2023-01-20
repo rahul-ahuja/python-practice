@@ -1,4 +1,5 @@
 from tqdm import tqdm
+import numpy as np
 
 
 def numberOfWays(startPos: int, endPos: int, k: int) -> int:
