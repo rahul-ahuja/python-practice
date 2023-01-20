@@ -1,0 +1,12 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - conda==22.11.1
+  - setuptools
+  - pip
+  - wheel
+  - conda-content-trust
+  - tqdm
+prefix: /home/engs2512/miniconda3
